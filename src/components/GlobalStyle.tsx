@@ -24,7 +24,8 @@ html {
 body {
   scroll-behavior: smooth;
   margin: 0 auto;
-  font-size: 1.6rem; 
+  font-size: 1.6rem;
+  background-color: ${({ theme }) => theme.colors.mainBgColor}; 
   line-height: 1.5;
   width: 100%;
   -webkit-font-smoothing: antialiased;

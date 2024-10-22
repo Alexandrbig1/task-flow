@@ -1,0 +1,5 @@
+[
+  { "id": "tabs-001", "button": "All" },
+  { "id": "tabs-002", "button": "Open" },
+  { "id": "tabs-003", "button": "Completed" }
+]
